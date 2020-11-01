@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Texans Helmet](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.clubs.nfl.com%2Fimage%2Fprivate%2Ft_editorial_landscape_8_desktop_mobile%2Ftexans%2Fupcv87qkhxwl1imhufak.jpg&imgrefurl=https%3A%2F%2Fwww.houstontexans.com%2Fnews%2Fhouston-texans-transactions-9-26-20&tbnid=1l74YSKqYxdugM&vet=12ahUKEwiThaGM-OHsAhUMYKwKHWOcD9oQMygLegUIARDpAQ..i&docid=xQchIWWC16VXAM&w=824&h=464&q=houston%20texans&client=firefox-b-1-d&ved=2ahUKEwiThaGM-OHsAhUMYKwKHWOcD9oQMygLegUIARDpAQ)
